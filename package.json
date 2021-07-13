@@ -55,7 +55,7 @@
     "tap-diff": "^0.1.1",
     "tap-mocha-reporter": "^3.0.7",
     "tape": "^4.9.1",
-    "xo": "^0.23.0"
+    "xo": "^0.40.3"
   },
   "jest": {
     "testRegex": ".*.js",
