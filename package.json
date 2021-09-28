@@ -45,7 +45,7 @@
     "dist"
   ],
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^2.0.0",
     "jest": "^23.6.0",
     "mkdirp": "^0.5.1",
     "mocha": "^5.2.0",
@@ -55,7 +55,7 @@
     "tap-diff": "^0.1.1",
     "tap-mocha-reporter": "^3.0.7",
     "tape": "^4.9.1",
-    "xo": "^0.23.0"
+    "xo": "^0.25.0"
   },
   "jest": {
     "testRegex": ".*.js",
