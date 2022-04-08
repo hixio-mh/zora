@@ -47,8 +47,8 @@
   "devDependencies": {
     "ava": "^0.25.0",
     "jest": "^23.6.0",
-    "mkdirp": "^0.5.1",
-    "mocha": "^5.2.0",
+    "mkdirp": "^0.5.2",
+    "mocha": "^6.2.3",
     "rollup": "^0.67.3",
     "rollup-plugin-commonjs": "^9.2.0",
     "rollup-plugin-node-resolve": "^3.4.0",
